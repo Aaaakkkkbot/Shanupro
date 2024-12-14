@@ -1,11 +1,4 @@
-pyrogram==2.0.80
-TgCrypto
-motor
+pyrofork
+tgcrypto
 dnspython
-hachoir
-Pillow
-aiohttp
-pytz
-humanize
-pyromod
-ffmpeg-python
+motor
